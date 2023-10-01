@@ -1,4 +1,4 @@
-<div background="white">
+<div backgroundColor="white">
 <h1 align="center">Hi 👋, I'm Lennart Protte</h1>
 <h3 align="center">A passionate C++/Java developer from Germany</h3>
 - 🔭 I’m currently working on [infocoach.org](https://github.com/orgs/infocoach-org/repositories)
