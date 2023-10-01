@@ -17,6 +17,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leartpro&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="leartpro" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leartpro&show_icons=true&locale=en" alt="leartpro" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leartpro&show_icons=true&locale=en&theme=github_dark" alt="leartpro" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leartpro" alt="leartpro" /></a> </p>
