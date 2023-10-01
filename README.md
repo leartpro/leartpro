@@ -19,4 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leartpro&show_icons=true&locale=en&theme=github_dark" alt="leartpro" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leartpro&theme=github_dark" alt="leartpro" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leartpro&theme=dark#gh-dark-mode-only" alt="leartpro" /></a> </p>
