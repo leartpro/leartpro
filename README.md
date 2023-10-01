@@ -1,4 +1,3 @@
-<div backgroundColor="white">
 <h1 align="center">Hi 👋, I'm Lennart Protte</h1>
 <h3 align="center">A passionate C++/Java developer from Germany</h3>
 - 🔭 I’m currently working on [infocoach.org](https://github.com/orgs/infocoach-org/repositories)
@@ -21,5 +20,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leartpro&show_icons=true&locale=en" alt="leartpro" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leartpro" alt="leartpro" /></a> </p>
-
-</div>
