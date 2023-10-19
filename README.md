@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Carbon Design System for Svelte**
 
-- 👨‍💻 All of my projects are available at [lennartprotte.tech](lennartprotte.tech)
+- 👨‍💻 All of my projects are available at [lennartprotte.tech](https://lennartprotte.tech)
 
 - 💬 Ask me about **C++/Java**
 
