@@ -20,3 +20,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leartpro&show_icons=true&locale=en&theme=github_dark" alt="leartpro" /></p>
 
 <p><img align="left" src="https://github-profile-trophy.vercel.app/?username=leartpro&theme=darkhub" alt="leartpro" /></p>
+
+
+![Metrics](/github-metrics.svg)
