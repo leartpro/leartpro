@@ -22,12 +22,12 @@
 <p><img align="left" src="https://github-profile-trophy.vercel.app/?username=leartpro&theme=darkhub" alt="leartpro" /></p>
 
 
-[](/template.svg)
-[](/languages.svg)
-[](/activity.svg)
-[](/yearcalendar.svg)
-[](/achivements.svg)
-[](/followers.svg)
+![Template](/template.svg)
+![Languages](/languages.svg)
+![Activity](/activity.svg)
+![Calendar](/yearcalendar.svg)
+![Achivments](/achivements.svg)
+![Followers](/followers.svg)
 
 
 
