@@ -71,7 +71,7 @@ jobs:
           plugin_calendar: yes
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.achievements.compact.svg
+          filename: achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_achievements: yes
@@ -82,7 +82,7 @@ jobs:
           plugin_achievements_threshold: X
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.activity.svg
+          filename: activity.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_activity: yes
