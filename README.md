@@ -22,6 +22,14 @@
 <p><img align="left" src="https://github-profile-trophy.vercel.app/?username=leartpro&theme=darkhub" alt="leartpro" /></p>
 
 
-![Metrics](/template.svg)
+[](/template.svg)
+[](/languages.svg)
+[](/activity.svg)
+[](/yearcalendar.svg)
+[](/achivements.svg)
+[](/followers.svg)
+
+
+
 
 
