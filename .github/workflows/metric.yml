@@ -20,13 +20,6 @@ jobs:
           plugin_lines: yes
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          filename: yearcalendar.svg
-          base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-      - uses: lowlighter/metrics@latest
-        with:
           filename: languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
@@ -36,19 +29,20 @@ jobs:
           plugin_languages_limit: 4
       - uses: lowlighter/metrics@latest
         with:
-          filename: lines.svg
+          filename: activity.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: repositories
-          plugin_lines: yes
-          plugin_lines_delay: 30
+          base: ""
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 0
+          plugin_activity_filter: issue, pr, release, fork, review, ref/create
       - uses: lowlighter/metrics@latest
         with:
-          filename: icons.svg
-          token: NOT_NEEDED
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: yearcalendar.svg
           base: ""
-          plugin_topics: yes
-          plugin_topics_limit: 0
-          plugin_topics_mode: icons
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
       - uses: lowlighter/metrics@latest
         with:
           filename: followers.svg
@@ -56,19 +50,6 @@ jobs:
           base: ""
           plugin_people: yes
           plugin_people_types: followers
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: pinned.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_repositories: yes
-          plugin_repositories_pinned: 2
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: calendar.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_calendar: yes
       - uses: lowlighter/metrics@latest
         with:
           filename: achievements.svg
@@ -80,13 +61,4 @@ jobs:
             scripter, packager, explorer, infographile, manager
           plugin_achievements_display: compact
           plugin_achievements_threshold: X
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: activity.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 0
-          plugin_activity_filter: issue, pr, release, fork, review, ref/create
         
