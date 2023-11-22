@@ -26,7 +26,7 @@
 ![Languages](/languages.svg)
 ![Activity](/activity.svg)
 ![Calendar](/yearcalendar.svg)
-![Achivments](/achivements.svg)
+![Achivments](/achievements.svg)
 ![Followers](/followers.svg)
 
 
