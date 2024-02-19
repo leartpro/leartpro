@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [infocoach.org](https://github.com/orgs/infocoach-org/repositories)
 
-- 🌱 I’m currently learning **Carbon Design System for Svelte**
+- 🌱 I’m currently studying **B.Sc. Computer Science**
 
 - 👨‍💻 All of my projects are available at [lennartprotte.tech](https://lennartprotte.tech)
 
