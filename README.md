@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently studying **B.Sc. Computer Science**
 
-- 👨‍💻 All of my projects are available at [lennartprotte.tech](https://lennartprotte.tech)
+- 👨‍💻 All of my projects are available at [my personal website]([https://lennartprotte.tech](https://leartpro.github.io/personal/))
 
 - 💬 Ask me about **C++/Java**
 
